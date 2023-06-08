@@ -124,7 +124,7 @@ In short, the MIT License states:
     </td>
     <td align="center">
       <a href="https://emmanpbarrameda.github.io">
-        <img src="https://drive.google.com/uc?export=view&id=1OGOKYZNt6vDvfkj_C5kJmqty8u0jYN_d" alt="Profile Image"/>
+        <img src="https://i.imgur.com/x3FW8OJ.png" alt="Cover Image"/>
       </a>
     </td>
   </tr>
