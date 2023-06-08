@@ -121,6 +121,7 @@ In short, the MIT License states:
       </a>
       <br />
       <p>Check out <a href="https://emmanpbarrameda.github.io" target="_blank">my portfolio</a> to learn more about me!</p>
+      <a href="https://github.com/emmanpbarrameda" target="_blank"><img src="https://img.shields.io/github/followers/emmanpbarrameda.svg?style=social&label=Follow on GitHub&maxAge=2592000" alt="GitHub Followers" /></a>
     </td>
     <td align="center">
       <a href="https://emmanpbarrameda.github.io">
@@ -144,6 +145,7 @@ In short, the MIT License states:
   &nbsp;&nbsp;
   <a href="https://github.com/emmanpbarrameda/" target="_blank"><img src="https://img.shields.io/badge/GitHub-%20-black?style=for-the-badge&logo=github"></a>
 </p>
+
 
 
 
